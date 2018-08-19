@@ -1,2 +1,2 @@
-# Root
-This is the standard minimum setup.
+# PlaceWL
+This is the standard minimum PlaceWL.
